@@ -6,11 +6,6 @@
       "name": "电影天堂",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
-    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
